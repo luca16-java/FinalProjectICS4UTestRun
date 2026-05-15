@@ -10,6 +10,7 @@ public class MCQuiz extends javax.swing.JFrame {
         initComponents();
         mainWindow = m;
     }
+    
 
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
